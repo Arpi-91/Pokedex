@@ -1,6 +1,7 @@
 {
   "name": "pocedex_app",
   "version": "0.1.0",
+  "homepage": " https://arpi-91.github.io/Pokedex",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^2.2.5",
