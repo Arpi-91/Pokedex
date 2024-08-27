@@ -1,0 +1,36 @@
+.pagination_container {
+  width: 100%;
+  padding: 10px 70px;
+}
+ul {
+  display: flex;
+  justify-content: end;
+  list-style: none;
+}
+
+.paginateion_li {
+  margin: 0 2px;
+  cursor: pointer;
+  font-weight: 900;
+  width: 42px;
+  font-size: 18px;
+  height: 30px;
+  color: rgb(57, 127, 132);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: none;
+  border-radius: 4px;
+  transition: 0.2s;
+  background-color: white;
+}
+.activePage {
+  background-color: rgb(57, 127, 132);
+  color: rgb(255, 255, 255);
+}
+
+.paginateion_li:hover {
+  background-color: rgb(249, 252, 253);
+  color: rgb(57, 127, 132);
+  box-shadow: 0 0 4px rgb(57, 127, 132);
+}
