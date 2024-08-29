@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Arpi-91.github.io/Pokedex/static/css/main.cea01466.css",
+    "main.js": "/Arpi-91.github.io/Pokedex/static/js/main.65e2ac3e.js",
+    "static/media/Quicksand-Medium.ttf": "/Arpi-91.github.io/Pokedex/static/media/Quicksand-Medium.9fd398f86ce80d968762.ttf",
+    "index.html": "/Arpi-91.github.io/Pokedex/index.html",
+    "main.cea01466.css.map": "/Arpi-91.github.io/Pokedex/static/css/main.cea01466.css.map",
+    "main.65e2ac3e.js.map": "/Arpi-91.github.io/Pokedex/static/js/main.65e2ac3e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cea01466.css",
+    "static/js/main.65e2ac3e.js"
+  ]
+}
